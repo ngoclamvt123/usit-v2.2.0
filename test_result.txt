@@ -1,0 +1,1148 @@
+--------All testcases result------
+
+Matching result:	S5000L07.tiff
+
+Minimum Hamming-Distance: 0.258242
+The best group matching: S5000
+Pass Test
+------------------------------------
+
+Matching result:	S5000L08.tiff
+
+Minimum Hamming-Distance: 0.194253
+The best group matching: S5000
+Pass Test
+------------------------------------
+
+Matching result:	S5000L09.tiff
+
+Minimum Hamming-Distance: 0.238417
+The best group matching: S5000
+Pass Test
+------------------------------------
+
+Matching result:	S5001L07.tiff
+
+Minimum Hamming-Distance: 0.37207
+The best group matching: S5028
+Fail Test
+------------------------------------
+
+Matching result:	S5001L08.tiff
+
+Minimum Hamming-Distance: 0.419336
+No file matching
+------------------------------------
+
+Matching result:	S5001L09.tiff
+
+Minimum Hamming-Distance: 0.392773
+The best group matching: S5001
+Pass Test
+------------------------------------
+
+Matching result:	S5002L07.tiff
+
+Minimum Hamming-Distance: 0.125074
+The best group matching: S5002
+Pass Test
+------------------------------------
+
+Matching result:	S5002L08.tiff
+
+Minimum Hamming-Distance: 0.209549
+The best group matching: S5002
+Pass Test
+------------------------------------
+
+Matching result:	S5002L09.tiff
+
+Minimum Hamming-Distance: 0.185799
+The best group matching: S5002
+Pass Test
+------------------------------------
+
+Matching result:	S5003L07.tiff
+
+Minimum Hamming-Distance: 0.153749
+The best group matching: S5003
+Pass Test
+------------------------------------
+
+Matching result:	S5003L08.tiff
+
+Minimum Hamming-Distance: 0.133661
+The best group matching: S5003
+Pass Test
+------------------------------------
+
+Matching result:	S5003L09.tiff
+
+Minimum Hamming-Distance: 0.100594
+The best group matching: S5003
+Pass Test
+------------------------------------
+
+Matching result:	S5004L07.tiff
+
+Minimum Hamming-Distance: 0.125597
+The best group matching: S5004
+Pass Test
+------------------------------------
+
+Matching result:	S5004L08.tiff
+
+Minimum Hamming-Distance: 0.175991
+The best group matching: S5004
+Pass Test
+------------------------------------
+
+Matching result:	S5004L09.tiff
+
+Minimum Hamming-Distance: 0.179114
+The best group matching: S5004
+Pass Test
+------------------------------------
+
+Matching result:	S5005L07.tiff
+
+Minimum Hamming-Distance: 0.215657
+The best group matching: S5005
+Pass Test
+------------------------------------
+
+Matching result:	S5005L08.tiff
+
+Minimum Hamming-Distance: 0.220547
+The best group matching: S5005
+Pass Test
+------------------------------------
+
+Matching result:	S5005L09.tiff
+
+Minimum Hamming-Distance: 0.239996
+The best group matching: S5005
+Pass Test
+------------------------------------
+
+Matching result:	S5006L07.tiff
+
+------------------------------------
+
+Matching result:	S5006L08.tiff
+
+Minimum Hamming-Distance: 0.426325
+No file matching
+------------------------------------
+
+Matching result:	S5006L09.tiff
+
+------------------------------------
+
+Matching result:	S5007L07.tiff
+
+Minimum Hamming-Distance: 0.183964
+The best group matching: S5007
+Pass Test
+------------------------------------
+
+Matching result:	S5007L08.tiff
+
+Minimum Hamming-Distance: 0.192082
+The best group matching: S5007
+Pass Test
+------------------------------------
+
+Matching result:	S5007L09.tiff
+
+Minimum Hamming-Distance: 0.177141
+The best group matching: S5007
+Pass Test
+------------------------------------
+
+Matching result:	S5008L07.tiff
+
+Minimum Hamming-Distance: 0.337988
+The best group matching: S5008
+Pass Test
+------------------------------------
+
+Matching result:	S5008L08.tiff
+
+Minimum Hamming-Distance: 0.333691
+The best group matching: S5008
+Pass Test
+------------------------------------
+
+Matching result:	S5008L09.tiff
+
+Minimum Hamming-Distance: 0.338965
+The best group matching: S5008
+Pass Test
+------------------------------------
+
+Matching result:	S5009L07.tiff
+
+------------------------------------
+
+Matching result:	S5009L08.tiff
+
+Minimum Hamming-Distance: 0.203413
+The best group matching: S5009
+Pass Test
+------------------------------------
+
+Matching result:	S5009L09.tiff
+
+Minimum Hamming-Distance: 0.12288
+The best group matching: S5009
+Pass Test
+------------------------------------
+
+Matching result:	S5010L07.tiff
+
+------------------------------------
+
+Matching result:	S5010L08.tiff
+
+------------------------------------
+
+Matching result:	S5010L09.tiff
+
+------------------------------------
+
+Matching result:	S5011L07.tiff
+
+Minimum Hamming-Distance: 0.24694
+The best group matching: S5011
+Pass Test
+------------------------------------
+
+Matching result:	S5011L08.tiff
+
+Minimum Hamming-Distance: 0.271274
+The best group matching: S5011
+Pass Test
+------------------------------------
+
+Matching result:	S5011L09.tiff
+
+Minimum Hamming-Distance: 0.430858
+No file matching
+------------------------------------
+
+Matching result:	S5012L07.tiff
+
+Minimum Hamming-Distance: 0.391638
+The best group matching: S5012
+Pass Test
+------------------------------------
+
+Matching result:	S5012L08.tiff
+
+Minimum Hamming-Distance: 0.418474
+No file matching
+------------------------------------
+
+Matching result:	S5012L09.tiff
+
+------------------------------------
+
+Matching result:	S5013L07.tiff
+
+------------------------------------
+
+Matching result:	S5013L08.tiff
+
+Minimum Hamming-Distance: 0.355458
+The best group matching: S5013
+Pass Test
+------------------------------------
+
+Matching result:	S5013L09.tiff
+
+Minimum Hamming-Distance: 0.369109
+The best group matching: S5029
+Fail Test
+------------------------------------
+
+Matching result:	S5014L07.tiff
+
+Minimum Hamming-Distance: 0.202176
+The best group matching: S5014
+Pass Test
+------------------------------------
+
+Matching result:	S5014L08.tiff
+
+Minimum Hamming-Distance: 0.375376
+The best group matching: S5014
+Pass Test
+------------------------------------
+
+Matching result:	S5014L09.tiff
+
+------------------------------------
+
+Matching result:	S5015L07.tiff
+
+Minimum Hamming-Distance: 0.322885
+The best group matching: S5015
+Pass Test
+------------------------------------
+
+Matching result:	S5015L08.tiff
+
+------------------------------------
+
+Matching result:	S5015L09.tiff
+
+------------------------------------
+
+Matching result:	S5016L07.tiff
+
+------------------------------------
+
+Matching result:	S5016L08.tiff
+
+------------------------------------
+
+Matching result:	S5016L09.tiff
+
+Minimum Hamming-Distance: 0.293168
+The best group matching: S5016
+Pass Test
+------------------------------------
+
+Matching result:	S5017L07.tiff
+
+Minimum Hamming-Distance: 0.207953
+The best group matching: S5017
+Pass Test
+------------------------------------
+
+Matching result:	S5017L08.tiff
+
+Minimum Hamming-Distance: 0.237279
+The best group matching: S5017
+Pass Test
+------------------------------------
+
+Matching result:	S5017L09.tiff
+
+Minimum Hamming-Distance: 0.262006
+The best group matching: S5017
+Pass Test
+------------------------------------
+
+Matching result:	S5018L07.tiff
+
+Minimum Hamming-Distance: 0.309278
+The best group matching: S5018
+Pass Test
+------------------------------------
+
+Matching result:	S5018L08.tiff
+
+Minimum Hamming-Distance: 0.28871
+The best group matching: S5018
+Pass Test
+------------------------------------
+
+Matching result:	S5018L09.tiff
+
+Minimum Hamming-Distance: 0.218017
+The best group matching: S5018
+Pass Test
+------------------------------------
+
+Matching result:	S5019L07.tiff
+
+Minimum Hamming-Distance: 0.239788
+The best group matching: S5019
+Pass Test
+------------------------------------
+
+Matching result:	S5019L08.tiff
+
+------------------------------------
+
+Matching result:	S5019L09.tiff
+
+------------------------------------
+
+Matching result:	S5020L07.tiff
+
+Minimum Hamming-Distance: 0.171902
+The best group matching: S5020
+Pass Test
+------------------------------------
+
+Matching result:	S5020L08.tiff
+
+------------------------------------
+
+Matching result:	S5020L09.tiff
+
+Minimum Hamming-Distance: 0.40458
+No file matching
+------------------------------------
+
+Matching result:	S5021L07.tiff
+
+Minimum Hamming-Distance: 0.259919
+The best group matching: S5021
+Pass Test
+------------------------------------
+
+Matching result:	S5021L08.tiff
+
+Minimum Hamming-Distance: 0.260505
+The best group matching: S5021
+Pass Test
+------------------------------------
+
+Matching result:	S5021L09.tiff
+
+Minimum Hamming-Distance: 0.292692
+The best group matching: S5021
+Pass Test
+------------------------------------
+
+Matching result:	S5022L07.tiff
+
+Minimum Hamming-Distance: 0.209677
+The best group matching: S5022
+Pass Test
+------------------------------------
+
+Matching result:	S5022L08.tiff
+
+Minimum Hamming-Distance: 0.192638
+The best group matching: S5022
+Pass Test
+------------------------------------
+
+Matching result:	S5022L09.tiff
+
+------------------------------------
+
+Matching result:	S5023L07.tiff
+
+Minimum Hamming-Distance: 0
+The best group matching: S5023
+Pass Test
+------------------------------------
+
+Matching result:	S5023L08.tiff
+
+Minimum Hamming-Distance: 0.263818
+The best group matching: S5023
+Pass Test
+------------------------------------
+
+Matching result:	S5023L09.tiff
+
+Minimum Hamming-Distance: 0.256862
+The best group matching: S5023
+Pass Test
+------------------------------------
+
+Matching result:	S5024L07.tiff
+
+Minimum Hamming-Distance: 0.158494
+The best group matching: S5024
+Pass Test
+------------------------------------
+
+Matching result:	S5024L08.tiff
+
+Minimum Hamming-Distance: 0.146621
+The best group matching: S5024
+Pass Test
+------------------------------------
+
+Matching result:	S5024L09.tiff
+
+Minimum Hamming-Distance: 0.138631
+The best group matching: S5024
+Pass Test
+------------------------------------
+
+Matching result:	S5025L07.tiff
+
+Minimum Hamming-Distance: 0.380017
+The best group matching: S5018
+Fail Test
+------------------------------------
+
+Matching result:	S5025L08.tiff
+
+Minimum Hamming-Distance: 0.40912
+No file matching
+------------------------------------
+
+Matching result:	S5025L09.tiff
+
+Minimum Hamming-Distance: 0.359877
+The best group matching: S5018
+Fail Test
+------------------------------------
+
+Matching result:	S5026L07.tiff
+
+Minimum Hamming-Distance: 0.153794
+The best group matching: S5026
+Pass Test
+------------------------------------
+
+Matching result:	S5026L08.tiff
+
+Minimum Hamming-Distance: 0.137896
+The best group matching: S5026
+Pass Test
+------------------------------------
+
+Matching result:	S5026L09.tiff
+
+Minimum Hamming-Distance: 0.276467
+The best group matching: S5026
+Pass Test
+------------------------------------
+
+Matching result:	S5027L07.tiff
+
+------------------------------------
+
+Matching result:	S5027L08.tiff
+
+Minimum Hamming-Distance: 0.301594
+The best group matching: S5027
+Pass Test
+------------------------------------
+
+Matching result:	S5027L09.tiff
+
+------------------------------------
+
+Matching result:	S5028L07.tiff
+
+Minimum Hamming-Distance: 0.384181
+The best group matching: S5028
+Pass Test
+------------------------------------
+
+Matching result:	S5028L08.tiff
+
+------------------------------------
+
+Matching result:	S5028L09.tiff
+
+Minimum Hamming-Distance: 0.344584
+The best group matching: S5028
+Pass Test
+------------------------------------
+
+Matching result:	S5029L07.tiff
+
+------------------------------------
+
+Matching result:	S5029L08.tiff
+
+Minimum Hamming-Distance: 0.30338
+The best group matching: S5029
+Pass Test
+------------------------------------
+
+Matching result:	S5029L09.tiff
+
+Minimum Hamming-Distance: 0.252148
+The best group matching: S5029
+Pass Test
+------------------------------------
+
+Matching result:	S5030L07.tiff
+
+------------------------------------
+
+Matching result:	S5030L08.tiff
+
+------------------------------------
+
+Matching result:	S5030L09.tiff
+
+------------------------------------
+
+Matching result:	S5031L07.tiff
+
+------------------------------------
+
+Matching result:	S5031L08.tiff
+
+Minimum Hamming-Distance: 0.105832
+The best group matching: S5031
+Pass Test
+------------------------------------
+
+Matching result:	S5031L09.tiff
+
+Minimum Hamming-Distance: 0.112454
+The best group matching: S5031
+Pass Test
+------------------------------------
+
+Matching result:	S5032L07.tiff
+
+Minimum Hamming-Distance: 0.213126
+The best group matching: S5032
+Pass Test
+------------------------------------
+
+Matching result:	S5032L08.tiff
+
+Minimum Hamming-Distance: 0.239509
+The best group matching: S5032
+Pass Test
+------------------------------------
+
+Matching result:	S5032L09.tiff
+
+Minimum Hamming-Distance: 0.225965
+The best group matching: S5032
+Pass Test
+------------------------------------
+
+Matching result:	S5033L07.tiff
+
+Minimum Hamming-Distance: 0.319596
+The best group matching: S5033
+Pass Test
+------------------------------------
+
+Matching result:	S5033L08.tiff
+
+Minimum Hamming-Distance: 0.306653
+The best group matching: S5033
+Pass Test
+------------------------------------
+
+Matching result:	S5033L09.tiff
+
+Minimum Hamming-Distance: 0.315533
+The best group matching: S5033
+Pass Test
+------------------------------------
+
+Matching result:	S5034L07.tiff
+
+Minimum Hamming-Distance: 0.125517
+The best group matching: S5034
+Pass Test
+------------------------------------
+
+Matching result:	S5034L08.tiff
+
+Minimum Hamming-Distance: 0.298821
+The best group matching: S5034
+Pass Test
+------------------------------------
+
+Matching result:	S5034L09.tiff
+
+------------------------------------
+
+Matching result:	S5035L07.tiff
+
+Minimum Hamming-Distance: 0.09056
+The best group matching: S5035
+Pass Test
+------------------------------------
+
+Matching result:	S5035L08.tiff
+
+Minimum Hamming-Distance: 0.34816
+The best group matching: S5046
+Fail Test
+------------------------------------
+
+Matching result:	S5035L09.tiff
+
+Minimum Hamming-Distance: 0.338002
+The best group matching: S5035
+Pass Test
+------------------------------------
+
+Matching result:	S5036L07.tiff
+
+Minimum Hamming-Distance: 0.11459
+The best group matching: S5036
+Pass Test
+------------------------------------
+
+Matching result:	S5036L08.tiff
+
+Minimum Hamming-Distance: 0.118203
+The best group matching: S5036
+Pass Test
+------------------------------------
+
+Matching result:	S5036L09.tiff
+
+Minimum Hamming-Distance: 0.132762
+The best group matching: S5036
+Pass Test
+------------------------------------
+
+Matching result:	S5037L07.tiff
+
+------------------------------------
+
+Matching result:	S5037L08.tiff
+
+------------------------------------
+
+Matching result:	S5037L09.tiff
+
+------------------------------------
+
+Matching result:	S5038L07.tiff
+
+Minimum Hamming-Distance: 0.165644
+The best group matching: S5038
+Pass Test
+------------------------------------
+
+Matching result:	S5038L08.tiff
+
+Minimum Hamming-Distance: 0
+The best group matching: S5038
+Pass Test
+------------------------------------
+
+Matching result:	S5038L09.tiff
+
+Minimum Hamming-Distance: 0.160465
+The best group matching: S5038
+Pass Test
+------------------------------------
+
+Matching result:	S5039L07.tiff
+
+Minimum Hamming-Distance: 0.203102
+The best group matching: S5039
+Pass Test
+------------------------------------
+
+Matching result:	S5039L08.tiff
+
+Minimum Hamming-Distance: 0.13623
+The best group matching: S5039
+Pass Test
+------------------------------------
+
+Matching result:	S5039L09.tiff
+
+Minimum Hamming-Distance: 0.166332
+The best group matching: S5039
+Pass Test
+------------------------------------
+
+Matching result:	S5040L07.tiff
+
+Minimum Hamming-Distance: 0.189147
+The best group matching: S5040
+Pass Test
+------------------------------------
+
+Matching result:	S5040L08.tiff
+
+------------------------------------
+
+Matching result:	S5040L09.tiff
+
+Minimum Hamming-Distance: 0.394884
+The best group matching: S5020
+Fail Test
+------------------------------------
+
+Matching result:	S5041L07.tiff
+
+Minimum Hamming-Distance: 0.252173
+The best group matching: S5041
+Pass Test
+------------------------------------
+
+Matching result:	S5041L08.tiff
+
+Minimum Hamming-Distance: 0.223378
+The best group matching: S5041
+Pass Test
+------------------------------------
+
+Matching result:	S5041L09.tiff
+
+Minimum Hamming-Distance: 0.283875
+The best group matching: S5041
+Pass Test
+------------------------------------
+
+Matching result:	S5042L07.tiff
+
+Minimum Hamming-Distance: 0.124633
+The best group matching: S5042
+Pass Test
+------------------------------------
+
+Matching result:	S5042L08.tiff
+
+Minimum Hamming-Distance: 0.124089
+The best group matching: S5042
+Pass Test
+------------------------------------
+
+Matching result:	S5042L09.tiff
+
+Minimum Hamming-Distance: 0.135478
+The best group matching: S5042
+Pass Test
+------------------------------------
+
+Matching result:	S5043L07.tiff
+
+Minimum Hamming-Distance: 0.120117
+The best group matching: S5043
+Pass Test
+------------------------------------
+
+Matching result:	S5043L08.tiff
+
+Minimum Hamming-Distance: 0.143199
+The best group matching: S5043
+Pass Test
+------------------------------------
+
+Matching result:	S5043L09.tiff
+
+Minimum Hamming-Distance: 0.201578
+The best group matching: S5043
+Pass Test
+------------------------------------
+
+Matching result:	S5044L07.tiff
+
+Minimum Hamming-Distance: 0.152148
+The best group matching: S5044
+Pass Test
+------------------------------------
+
+Matching result:	S5044L08.tiff
+
+Minimum Hamming-Distance: 0.106368
+The best group matching: S5044
+Pass Test
+------------------------------------
+
+Matching result:	S5044L09.tiff
+
+Minimum Hamming-Distance: 0.13418
+The best group matching: S5044
+Pass Test
+------------------------------------
+
+Matching result:	S5045L07.tiff
+
+Minimum Hamming-Distance: 0.343891
+The best group matching: S5045
+Pass Test
+------------------------------------
+
+Matching result:	S5045L08.tiff
+
+Minimum Hamming-Distance: 0.391119
+The best group matching: S5028
+Fail Test
+------------------------------------
+
+Matching result:	S5045L09.tiff
+
+Minimum Hamming-Distance: 0.411174
+No file matching
+------------------------------------
+
+Matching result:	S5046L07.tiff
+
+------------------------------------
+
+Matching result:	S5046L08.tiff
+
+------------------------------------
+
+Matching result:	S5046L09.tiff
+
+Minimum Hamming-Distance: 0.427726
+No file matching
+------------------------------------
+
+Matching result:	S5047L07.tiff
+
+Minimum Hamming-Distance: 0.27494
+The best group matching: S5047
+Pass Test
+------------------------------------
+
+Matching result:	S5047L08.tiff
+
+Minimum Hamming-Distance: 0.257233
+The best group matching: S5047
+Pass Test
+------------------------------------
+
+Matching result:	S5047L09.tiff
+
+Minimum Hamming-Distance: 0.392039
+The best group matching: S5047
+Pass Test
+------------------------------------
+
+Matching result:	S5048L07.tiff
+
+Minimum Hamming-Distance: 0.256488
+The best group matching: S5048
+Pass Test
+------------------------------------
+
+Matching result:	S5048L08.tiff
+
+Minimum Hamming-Distance: 0.225562
+The best group matching: S5048
+Pass Test
+------------------------------------
+
+Matching result:	S5048L09.tiff
+
+Minimum Hamming-Distance: 0.143954
+The best group matching: S5048
+Pass Test
+------------------------------------
+
+Matching result:	S5049L07.tiff
+
+Minimum Hamming-Distance: 0.187801
+The best group matching: S5049
+Pass Test
+------------------------------------
+
+Matching result:	S5049L08.tiff
+
+Minimum Hamming-Distance: 0.186412
+The best group matching: S5049
+Pass Test
+------------------------------------
+
+Matching result:	S5049L09.tiff
+
+Minimum Hamming-Distance: 0.282509
+The best group matching: S5049
+Pass Test
+------------------------------------
+
+Matching result:	S5050L07.tiff
+
+Minimum Hamming-Distance: 0.168664
+The best group matching: S5050
+Pass Test
+------------------------------------
+
+Matching result:	S5050L08.tiff
+
+Minimum Hamming-Distance: 0.235225
+The best group matching: S5050
+Pass Test
+------------------------------------
+
+Matching result:	S5050L09.tiff
+
+Minimum Hamming-Distance: 0.222198
+The best group matching: S5050
+Pass Test
+------------------------------------
+
+Matching result:	S5051L07.tiff
+
+Minimum Hamming-Distance: 0.416467
+No file matching
+------------------------------------
+
+Matching result:	S5051L08.tiff
+
+Minimum Hamming-Distance: 0.409715
+No file matching
+------------------------------------
+
+Matching result:	S5051L09.tiff
+
+Minimum Hamming-Distance: 0.414159
+No file matching
+------------------------------------
+
+Matching result:	S5052L07.tiff
+
+------------------------------------
+
+Matching result:	S5052L08.tiff
+
+------------------------------------
+
+Matching result:	S5052L09.tiff
+
+------------------------------------
+
+Matching result:	S5053L07.tiff
+
+Minimum Hamming-Distance: 0.384042
+The best group matching: S5031
+Fail Test
+------------------------------------
+
+Matching result:	S5053L08.tiff
+
+Minimum Hamming-Distance: 0.395491
+The best group matching: S5022
+Fail Test
+------------------------------------
+
+Matching result:	S5053L09.tiff
+
+Minimum Hamming-Distance: 0.413777
+No file matching
+------------------------------------
+
+Matching result:	S5054L07.tiff
+
+Minimum Hamming-Distance: 0.404351
+No file matching
+------------------------------------
+
+Matching result:	S5054L08.tiff
+
+Minimum Hamming-Distance: 0.410428
+No file matching
+------------------------------------
+
+Matching result:	S5054L09.tiff
+
+Minimum Hamming-Distance: 0.393464
+The best group matching: S5043
+Fail Test
+------------------------------------
+
+Matching result:	S5055L07.tiff
+
+Minimum Hamming-Distance: 0.397327
+The best group matching: S5047
+Fail Test
+------------------------------------
+
+Matching result:	S5055L08.tiff
+
+Minimum Hamming-Distance: 0.41108
+No file matching
+------------------------------------
+
+Matching result:	S5055L09.tiff
+
+Minimum Hamming-Distance: 0.395872
+The best group matching: S5047
+Fail Test
+------------------------------------
+
+Matching result:	S5056L07.tiff
+
+Minimum Hamming-Distance: 0.422341
+No file matching
+------------------------------------
+
+Matching result:	S5056L08.tiff
+
+Minimum Hamming-Distance: 0.42698
+No file matching
+------------------------------------
+
+Matching result:	S5056L09.tiff
+
+Minimum Hamming-Distance: 0.412679
+No file matching
+------------------------------------
+
+Matching result:	S5057L07.tiff
+
+Minimum Hamming-Distance: 0.408753
+No file matching
+------------------------------------
+
+Matching result:	S5057L08.tiff
+
+Minimum Hamming-Distance: 0.406807
+No file matching
+------------------------------------
+
+Matching result:	S5057L09.tiff
+
+Minimum Hamming-Distance: 0.410301
+No file matching
+------------------------------------
+
+Matching result:	S5058L07.tiff
+
+------------------------------------
+
+Matching result:	S5058L08.tiff
+
+------------------------------------
+
+Matching result:	S5058L09.tiff
+
+Minimum Hamming-Distance: 0.396673
+The best group matching: S5024
+Fail Test
+------------------------------------
+
+Matching result:	S5059L07.tiff
+
+Minimum Hamming-Distance: 0.416297
+No file matching
+------------------------------------
+
+Matching result:	S5059L08.tiff
+
+Minimum Hamming-Distance: 0.398748
+The best group matching: S5032
+Fail Test
+------------------------------------
+
+Matching result:	S5059L09.tiff
+
+Minimum Hamming-Distance: 0.387677
+The best group matching: S5021
+Fail Test
+------------------------------------
+
+Matching result:	S5060L07.tiff
+
+Minimum Hamming-Distance: 0.407108
+No file matching
+------------------------------------
+
+Matching result:	S5060L08.tiff
+
+Minimum Hamming-Distance: 0.397062
+The best group matching: S5031
+Fail Test
+------------------------------------
+
+Matching result:	S5060L09.tiff
+
+Minimum Hamming-Distance: 0.406714
+No file matching
+------------------------------------
+
